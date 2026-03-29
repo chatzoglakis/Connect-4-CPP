@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Board.h"
+#include "../include/Board.h"
 
 struct player {
 	std::string name;

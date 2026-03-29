@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "Board.h"
+#include "../include/Board.h"
 
 Board::Board(const int rows, const int cols) {
 	this->rows = rows;
